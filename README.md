@@ -44,3 +44,63 @@ Ensure you have the following software/tools installed:
 - [Node.js](https://nodejs.org/)
 - [Angular CLI](https://cli.angular.io/)
 - [SQL Server](https://www.microsoft.com/sql-server/)
+
+### Installation
+
+1. Clone the repository:
+   ```
+   git clone https://github.com/g0elles/TaskAssigmentPlatform.git
+   ```
+
+2. Navigate to the project directory (frontend and backend) and install dependencies:
+
+   For frontend (Angular):
+   ```
+   cd task-management-system/frontend
+   npm install
+   ```
+
+   For backend (.NET Core):
+   ```
+   cd TaskAssigmentPlatform/backend
+   dotnet restore
+   ```
+
+3. Configure the database connection in the `appsettings.json` file in the backend project.
+
+4. Apply database migrations to create the database schema:
+   ```
+   cd TaskAssigmentPlatform/taskApi
+   dotnet ef database update
+   ```
+
+5. Run the backend server:
+   ```
+   cd TaskAssigmentPlatform/backend
+   dotnet run
+   ```
+
+6. Run the Angular development server:
+   ```
+   cd task-management-system/frontend
+   ng serve
+   ```
+
+7. Access the application in your browser: `http://localhost:4200`
+
+## Usage
+
+Upon installation, log in to the Task Management System. Create projects, assign tasks, and collaborate effectively with your team. Enjoy real-time updates and visualizations to track project progress.
+
+## Contributing
+
+Contributions are welcome! Please follow the [Contribution Guidelines](CONTRIBUTING.md) to contribute to this project.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgements
+
+- The development team would like to thank the open-source community for their valuable contributions.
+- Special thanks to [Angular](https://angular.io/), [.NET Core](https://dotnet.microsoft.com/), and [SQL Server](https://www.microsoft.com/sql-server/) for the powerful tools and technologies used in this project.
