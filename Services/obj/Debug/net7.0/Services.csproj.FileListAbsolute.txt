@@ -1,0 +1,17 @@
+C:\Users\G_E13\Documents\LEARNING\TECHNICAL LEARNING\TaskApi\Services\bin\Debug\net7.0\Services.deps.json
+C:\Users\G_E13\Documents\LEARNING\TECHNICAL LEARNING\TaskApi\Services\bin\Debug\net7.0\Services.dll
+C:\Users\G_E13\Documents\LEARNING\TECHNICAL LEARNING\TaskApi\Services\bin\Debug\net7.0\Services.pdb
+C:\Users\G_E13\Documents\LEARNING\TECHNICAL LEARNING\TaskApi\Services\obj\Debug\net7.0\Services.csproj.AssemblyReference.cache
+C:\Users\G_E13\Documents\LEARNING\TECHNICAL LEARNING\TaskApi\Services\obj\Debug\net7.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\G_E13\Documents\LEARNING\TECHNICAL LEARNING\TaskApi\Services\obj\Debug\net7.0\Services.AssemblyInfoInputs.cache
+C:\Users\G_E13\Documents\LEARNING\TECHNICAL LEARNING\TaskApi\Services\obj\Debug\net7.0\Services.AssemblyInfo.cs
+C:\Users\G_E13\Documents\LEARNING\TECHNICAL LEARNING\TaskApi\Services\obj\Debug\net7.0\Services.csproj.CoreCompileInputs.cache
+C:\Users\G_E13\Documents\LEARNING\TECHNICAL LEARNING\TaskApi\Services\obj\Debug\net7.0\Services.dll
+C:\Users\G_E13\Documents\LEARNING\TECHNICAL LEARNING\TaskApi\Services\obj\Debug\net7.0\refint\Services.dll
+C:\Users\G_E13\Documents\LEARNING\TECHNICAL LEARNING\TaskApi\Services\obj\Debug\net7.0\Services.pdb
+C:\Users\G_E13\Documents\LEARNING\TECHNICAL LEARNING\TaskApi\Services\obj\Debug\net7.0\ref\Services.dll
+C:\Users\G_E13\Documents\LEARNING\TECHNICAL LEARNING\TaskApi\Services\bin\Debug\net7.0\Models.dll
+C:\Users\G_E13\Documents\LEARNING\TECHNICAL LEARNING\TaskApi\Services\bin\Debug\net7.0\Shared.dll
+C:\Users\G_E13\Documents\LEARNING\TECHNICAL LEARNING\TaskApi\Services\bin\Debug\net7.0\Models.pdb
+C:\Users\G_E13\Documents\LEARNING\TECHNICAL LEARNING\TaskApi\Services\bin\Debug\net7.0\Shared.pdb
+C:\Users\G_E13\Documents\LEARNING\TECHNICAL LEARNING\TaskApi\Services\obj\Debug\net7.0\Services.csproj.CopyComplete
