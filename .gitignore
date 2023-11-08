@@ -1,0 +1,7 @@
+﻿################################################################################
+# Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
+################################################################################
+
+/.idea/.idea.TaskApi/.idea
+/Models/obj
+/TaskApi.Test/obj
