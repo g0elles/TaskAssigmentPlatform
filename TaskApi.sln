@@ -11,15 +11,15 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4. Services", "4. Services"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. UI", "1. UI", "{F9273459-7C20-49FB-A002-76296A223CD3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{46DC7A80-04A1-411C-AC14-1FB830133A95}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Models", "Models\Models.csproj", "{46DC7A80-04A1-411C-AC14-1FB830133A95}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services", "Services\Services.csproj", "{F24AD01F-CD22-44C8-8199-864471C6D86B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Services", "Services\Services.csproj", "{F24AD01F-CD22-44C8-8199-864471C6D86B}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5. Shared", "5. Shared", "{3D9B51E8-F859-442A-878D-3072AF30DAF6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shared", "Shared\Shared.csproj", "{F494A311-8042-4111-8EAF-6FFF9B3BEAEB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shared", "Shared\Shared.csproj", "{F494A311-8042-4111-8EAF-6FFF9B3BEAEB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TasksApi", "TasksApi\TasksApi.csproj", "{FAFBF14A-1060-4705-8AA4-9133951DB920}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TasksApi", "TasksApi\TasksApi.csproj", "{FAFBF14A-1060-4705-8AA4-9133951DB920}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

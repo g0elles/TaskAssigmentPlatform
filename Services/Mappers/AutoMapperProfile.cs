@@ -5,9 +5,9 @@ using Task = Models.Models.Task;
 
 namespace Services.Mappers;
 
-public class AutoMapper : Profile
+public class AutoMapperProfile : Profile
 {
-    public AutoMapper()
+    public AutoMapperProfile()
     {
         CreateMap<Task, TaskDto>().ReverseMap();
         CreateMap<Project, ProjectDto>().ReverseMap();

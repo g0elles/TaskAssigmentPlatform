@@ -82,3 +82,7 @@ C:\Users\G_E13\Documents\LEARNING\TECHNICAL LEARNING\TaskApi\TasksApi\obj\Debug\
 C:\Users\G_E13\Documents\LEARNING\TECHNICAL LEARNING\TaskApi\TasksApi\obj\Debug\net7.0\TasksApi.pdb
 C:\Users\G_E13\Documents\LEARNING\TECHNICAL LEARNING\TaskApi\TasksApi\obj\Debug\net7.0\TasksApi.genruntimeconfig.cache
 C:\Users\G_E13\Documents\LEARNING\TECHNICAL LEARNING\TaskApi\TasksApi\obj\Debug\net7.0\ref\TasksApi.dll
+C:\Users\G_E13\Documents\LEARNING\TECHNICAL LEARNING\TaskApi\TasksApi\bin\Debug\net7.0\nlog.config
+C:\Users\G_E13\Documents\LEARNING\TECHNICAL LEARNING\TaskApi\TasksApi\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\G_E13\Documents\LEARNING\TECHNICAL LEARNING\TaskApi\TasksApi\bin\Debug\net7.0\NLog.dll
+C:\Users\G_E13\Documents\LEARNING\TECHNICAL LEARNING\TaskApi\TasksApi\bin\Debug\net7.0\NLog.Extensions.Logging.dll
